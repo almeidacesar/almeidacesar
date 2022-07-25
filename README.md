@@ -1,7 +1,7 @@
 - 👋 ola,eu sou o julio cesar
-- 👀 eu me ineteresso por 
-- 🌱 atualmente estou aprendendo......
-- 💞️ Estou procurando colaborar em...
+- 👀 eu me ineteresso por futebol
+- 🌱 atualmente estou aprendendo futsal
+- 💞️ Estou procurando colaborar em jogar bola
 - 📫 Como chegar até mim no gmail: julio.almeida06@escola.pr.gov.br
 
 <!---
